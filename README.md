@@ -445,7 +445,7 @@ App supporting churches to use digital capabilities for their gatherings and coo
 
 ### [Chancel](https://github.com/jdmldm1/chancel) [🌐](https://chancel.study)
 
-Online transformative Bible study through collaborative group sessions, verse-by-verse exploration, and community discussion. 
+Online transformative Bible study through collaborative group sessions, verse-by-verse exploration, and community discussion.
 
 ![Last Commit](https://badgen.net/github/last-commit/jdmldm1/chancel) ![License](https://badgen.net/github/license/jdmldm1/chancel) ![Stars](https://badgen.net/github/stars/jdmldm1/chancel) ![Release](https://badgen.net/github/release/jdmldm1/chancel) ![Contributors](https://badgen.net/github/contributors/jdmldm1/chancel) ![Open Issues](https://badgen.net/github/open-issues/jdmldm1/chancel)
 
@@ -708,6 +708,16 @@ Front end for viewing and subscribing to lessons
 <img src="https://github.com/ChurchApps/LessonsApp/blob/main/public/images/logo.png?raw=true" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/ChurchApps/LessonsApp) ![License](https://badgen.net/github/license/ChurchApps/LessonsApp) ![Stars](https://badgen.net/github/stars/ChurchApps/LessonsApp) ![Release](https://badgen.net/github/release/ChurchApps/LessonsApp) ![Contributors](https://badgen.net/github/contributors/ChurchApps/LessonsApp) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/LessonsApp)
+
+---
+
+### 🌟 [lets.church](https://github.com/LetsChurch/lets.church) [🌐](https://lets.church/)
+
+Discover and share Christian content freely.
+
+<img src="https://raw.githubusercontent.com/LetsChurch/lets.church/refs/heads/kyrios/packages/web/public/apple-touch-icon.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/LetsChurch/lets.church) ![License](https://badgen.net/github/license/LetsChurch/lets.church) ![Stars](https://badgen.net/github/stars/LetsChurch/lets.church) ![Release](https://badgen.net/github/release/LetsChurch/lets.church) ![Contributors](https://badgen.net/github/contributors/LetsChurch/lets.church) ![Open Issues](https://badgen.net/github/open-issues/LetsChurch/lets.church)
 
 ---
 
