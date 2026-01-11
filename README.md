@@ -146,6 +146,16 @@ ReactNative mobile application for B1.church
 
 ---
 
+### 🌟 [be-still](https://github.com/cameronapak/be-still) [🌐](https://ft-be-still.netlify.app/)
+
+A digital prayer room, connected via WebSockets
+
+<img src="https://raw.githubusercontent.com/cameronapak/be-still/refs/heads/main/public/og-image.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/cameronapak/be-still) ![License](https://badgen.net/github/license/cameronapak/be-still) ![Stars](https://badgen.net/github/stars/cameronapak/be-still) ![Release](https://badgen.net/github/release/cameronapak/be-still) ![Contributors](https://badgen.net/github/contributors/cameronapak/be-still) ![Open Issues](https://badgen.net/github/open-issues/cameronapak/be-still)
+
+---
+
 ### 🌟 [Believers Sword](https://github.com/Bible-Projects/believers-sword-next) [🌐](https://www.believersword.com/) [🪟](https://www.believersword.com/)
 
 Simple application that helps you study bible with extra features.
