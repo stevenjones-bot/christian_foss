@@ -1061,9 +1061,9 @@ Keep track of your Bible reading, and complete it at your own pace
 
 ---
 
-### [Type The Word](https://github.com/joshuawootonn/type-the-word) [🌐](https://github.com/joshuawootonn/type-the-word)
+### [Type The Word](https://github.com/joshuawootonn/type-the-word) [🌐](https://www.typetheword.site/)
 
-A tool for Typing through the Bible. It keeps track of what verses and books of the Bible you have typed, and helps you improve your typing skills while meditating on God's word.
+The #1 way to type through the Bible.
 
 <img src="https://raw.githubusercontent.com/joshuawootonn/type-the-word/refs/heads/main/public/logo.png" height="100px">
 
