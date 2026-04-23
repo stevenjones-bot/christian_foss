@@ -744,7 +744,7 @@ App to translate Scripture step by step
 
 ### [LightNet](https://github.com/LightNetDev/LightNet) [🌐](https://lightnet.community) ⚙️
 
-Running digital media libraries for ministries can be complex and time consuming. LightNet makes this easier for developers, so ministries can share media more effectively.
+LightNet makes it easier to run digital media libraries for ministries
 
 <img src="https://github.com/user-attachments/assets/873cf6e0-0f28-45c0-ad8f-9bbf23fe5c62" height="100px">
 
