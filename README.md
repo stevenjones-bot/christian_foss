@@ -947,6 +947,16 @@ The free, fun, and effective way to memorize Bible verses! No ads, no restrictio
 
 ---
 
+### [rum1n8](https://github.com/timunrau/rum1n8) [🌐](https://rum1n8.unrau.xyz)
+
+Simple Bible memorization PWA that gives you control of your data, with optional Google Drive/WebDAV sync and self-hosting support.
+
+<img src="https://raw.githubusercontent.com/timunrau/rum1n8/main/public/icons/icon-512x512.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/timunrau/rum1n8) ![License](https://badgen.net/github/license/timunrau/rum1n8) ![Stars](https://badgen.net/github/stars/timunrau/rum1n8) ![Release](https://badgen.net/github/release/timunrau/rum1n8) ![Contributors](https://badgen.net/github/contributors/timunrau/rum1n8) ![Open Issues](https://badgen.net/github/open-issues/timunrau/rum1n8)
+
+---
+
 ## S
 
 ---
