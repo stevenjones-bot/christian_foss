@@ -989,6 +989,14 @@ Powerful, yet easy to use Bible/Lyric projection software
 
 ---
 
+### [Springwell-Keel](https://github.com/stevenjones-bot/springwell-keel) ⚙️ 🏗️
+
+Open-source agentic workflow platform for churches and faith-based benevolence ministries. Automates follow-up, intent detection, and care routing to reduce band-aid churn in ministry human services. Phase 0, Apache 2.0.
+
+![Last Commit](https://badgen.net/github/last-commit/stevenjones-bot/springwell-keel) ![License](https://badgen.net/github/license/stevenjones-bot/springwell-keel) ![Stars](https://badgen.net/github/stars/stevenjones-bot/springwell-keel) ![Release](https://badgen.net/github/release/stevenjones-bot/springwell-keel) ![Contributors](https://badgen.net/github/contributors/stevenjones-bot/springwell-keel) ![Open Issues](https://badgen.net/github/open-issues/stevenjones-bot/springwell-keel)
+
+---
+
 ### 🌟 [Stello](https://github.com/gracious-tech/stello) [🌐](https://stello.news/)
 
 Send secure newsletters
